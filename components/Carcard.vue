@@ -1,6 +1,6 @@
 <template>
     <div class="font-sans">
-        <img class="w-full border-x border-t border-[#E3E7E8]" src="https://placehold.co/400x250" alt="">
+        <img class="w-full border-x border-t border-[#E3E7E8]" src="https://eveho.fra1.cdn.digitaloceanspaces.com/vehicles/b63297d5b4/dms/base_dc506f295553908680e0fe44a.jpg" alt="">
         <div class="flex items-center justify-between bg-[#F1F8F9] p-5 text-text_primary">
             <div class="flex flex-col gap3">
                 <h3 class="font-medium uppercase text-text_subheader">NISSAN</h3>

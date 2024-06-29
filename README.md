@@ -1,75 +1,35 @@
-# Nuxt 3 Minimal Starter
+# 4 Tech Interview Project
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Project Overview
 
-## Setup
+This project is a technical interview submission for 4 Tech. It involves implementing a user interface design provided via Adobe XD using Nuxt.js 3.
 
-Make sure to install the dependencies:
+The design can be found here: [4 Tech UI Design](https://xd.adobe.com/view/b65f84ac-efe6-4c0c-9593-cc996d93ea5b-e30c/)
+
+## Screenshot
+
+![4 Tech UI Implementation](./screenshot.png)
+
+## Technologies Used
+
+- Nuxt.js 3
+- Vue.js
+- Tailwind CSS
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+- Node.js (version 14.0.0 or higher)
+- npm (version 6.0.0 or higher)
+
+## Getting Started
+
+1. Clone the repository:
 
 ```bash
-# npm
+git clone URL
+cd 4tech-technical-interview
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
